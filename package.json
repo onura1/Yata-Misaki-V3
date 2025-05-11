@@ -1,0 +1,24 @@
+{
+  "name": "yata-misaki-python-bot",
+  "version": "1.0.1",
+  "description": "Yata Misaki - Discord bot using Python, hosted on Glitch",
+  "main": "main.py",
+  "scripts": {
+    "start": "python3 main.py"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "python",
+    "yata",
+    "misaki"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": "16.x"
+  },
+  "dependencies": {
+    "yata-misaki-python-bot": "file:"
+  }
+}
